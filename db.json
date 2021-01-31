@@ -1,0 +1,18 @@
+{
+  "bg": "",
+  "title": "Tech Quiz",
+  "description": "",
+  "questions": [],
+  "external": [],
+  "theme": {
+    "colors": {
+      "primary": "blue",
+      "secondary": "yellow",
+      "mainBg": "purple",
+      "contrastText": "black",
+      "wrong": "red",
+      "success": "green"
+    },
+    "borderRadius": "4px"
+  }
+}
